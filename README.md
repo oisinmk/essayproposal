@@ -9,12 +9,12 @@ Essay Proposal and Critical Bibliography
 
 
 
-## Title:  The 10 Commandments Are Relevant Today 
+## The 10 Commandments Are Relevant Today. 
 
 
 
 
-##An investigation into whether Dieter Rams' 10 Principles of good design are relevant today. 
+## An investigation into whether Dieter Rams' 10 Principles of good design are relevant today. 
 
 
 
