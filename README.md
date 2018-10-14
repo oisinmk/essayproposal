@@ -22,7 +22,9 @@ Essay Proposal and Critical Bibliography
 ## Introduction
 
 In the 1970s Dieter Rams, an industrial designer, created the ‘10 principles of good design’ as a response to his own question, "Is my design good design?” These ten principles became widely known and celebrated as the ‘10 commandments of design’. (https://designmuseum.org, 2018) 
+
 They are a set of guidelines Rams created to understand a forever-changing environment and to ensure that his contribution to the world of design was a good one, to provide others with a foundation from where to build upon. (Vitsoe.com, 2018) 
+
 This dissertation argues that these 10 Commandments are still relevant in today’s arguably more chaotic world. That these guidelines can applicable to some of the newer design disciplines. That they are still relevant when designing for ‘Generation Z’ and that they can be successfully applied to the design of my own App project. 
    >“-Both consumer products and technology have changed tremendously. Even aesthetics       have changed considerably and many of Rams’    >designs look old-fashioned for most of us, or trendy and “in” if you’re a fan of ’60s and ’70s designs. Despite all these changes      >around, the commandments remain valuable guidelines for anyone working in design and not only for industrial designers but also for    >you, user experience designer! “ (domingo ,2018) 
  
@@ -40,12 +42,15 @@ Who are “Generation Z”? And why do they matter? I will investigate differenc
  
 #### The New Disciples  
 ‘The players have changed but the game stays the same’  
-Contemporary design disciplines e.g. UX Design, Interaction Design etc. that dominant the field today and the leaders of the specific fields e.g. Jonathan Ive... ( add couple in) 
+Contemporary design disciplines e.g. UX Design, Interaction Design etc. that dominant the field today and the leaders of the specific fields.
 What are the differences between Dieter Rams designing in the 1970s and designing for digital platforms today? Can Rams’ commandments be the foundation for modern day design or are the new kids on the design block changing the fundamentals of design to cater to the new world? 
-(Akkawi 2018) Suggests the designers of today have changed significantly over time, they discuss transition from designing physical products, crafted logos and posters to the digital era now and how the reach of these products can stretch out significantly farther than the former, “This kind of design is made at a scale that's greater than what we can comprehend.  Sometimes, it ends up in the hands of billions of people.” (Akkawi 2018) 
-Williams (2018) suggests when discussing the contemporary design process that: 
-    >“The purpose of having design principles is to align people around what really matters. > We all have a shared sense of what’s           important and true to us.> Principles move us away from superficial things like what “feels right” and what “looks good” and gives       purpose in the things we create.” 
-    This would be in tune with Rams’ approach fifty years ago. 
+
+(Akkawi, 2018) Suggests the designers of today have changed significantly over time, they discuss transition from designing physical products, crafted logos and posters to the digital era now and how the reach of these products can stretch out significantly farther than the former, “This kind of design is made at a scale that's greater than what we can comprehend.  Sometimes, it ends up in the hands of billions of people.” (Akkawi 2018) 
+
+(Williams, 2018) suggests when discussing the contemporary design process that: 
+    >"The purpose of having design principles is to align people around what really matters. We all have a shared sense of what’s           >important and true to us. Principles move us away from superficial things like what “feels right” and what “looks good” and gives       >purpose in the things we create.” 
+   
+  This would be in tune with Rams’ approach fifty years ago. 
  
 
 
@@ -63,17 +68,22 @@ Williams (2018) suggests when discussing the contemporary design process that:
 ####  9.Good design is environmentally-friendly 
 #### 10.Good design is as little design as possible 
  
-The breaking down of the ten commandments.  Opinions and thoughts from the leaders of the design world.  
-Domingo (2018) suggests that Rams’ principles are “Timeless commandments” and explains how they are valuable today not just for product designers as Rams would have been, but all manner of designers. “It’s amazing to see how valid these principles are today, so much that we might feel them even more than back then, when Rams actually wrote them” (Domingo 2018).  
+The breaking down of the ten commandments. Opinions and thoughts from the leaders of the design world.  
+Domingo (2018) suggests that Rams’ principles are “Timeless commandments” and explains how they are valuable today not just for product designers as Rams would have been, but all manner of designers. >“It’s amazing to see how valid these principles are today, so much that we might feel them even more than back then, when Rams actually wrote them” (Domingo 2018).  
+
 Croft (2018) shares a similar opinion suggesting that although Rams’ 10 disciplines were originally created in the seventies as a framework for his experience in product design, they can be applied as a foundation for any discipline.  
+
 Ettleman (2018) believes that Rams' 10 Disciplines stand for something more than just guidelines today and that they stand for the foundation of the creation of life-long resolutions that are experienced by everyone. 
+
 Ettleman (2018) elaborates on each of the ten disciplines, e.g. he suggests innovation is not limited by but actually depends on the advancement of technology “in order to continue producing creative solutions that are truly innovative.  
 
 
 ## The New Testament 
 
-A practical investigation.  I will be applying the wisdom instilled to us by Rams’ ten principles of good design to the prototyping phase of my own Interaction design project.  
+A practical investigation. I will be applying the wisdom instilled to us by Rams’ ten principles of good design to the prototyping phase of my own Interaction design project.  
+
 The project is to develop a prototype using a range of mediums, the emphasis on testing and research, to produce a substantial piece of work for the major project module. 
+
 I will be planning, designing and developing an APP that shows which foods, drinks, tastes and flavours work together. I will have to think about a range of design disciplines when developing the APP, e.g. User experience design, Interaction Design, UI Design so it will be interesting to see how Rams’ principles fare with the more modern aspects of this project. 
  
 
@@ -81,7 +91,9 @@ I will be planning, designing and developing an APP that shows which foods, drin
 ### Conclusion
 
 This dissertation puts forward the idea that the ten design principles created by Dieter Rams nearly fifty years ago are still valid today. The research is broken down into three sections, ‘Where did all the time go?’ which covers the modern disciplines today, the designers in those respective fields and who are they designing for?  
+
 ‘Revelations’ an investigation into each of Rams’ ten principles and how current opinion still values them today. 
+
 ‘The New Testament’ a practical investigation, applying Rams’ ten principles to my own final year project.
 
 
