@@ -44,8 +44,8 @@ Contemporary design disciplines e.g. UX Design, Interaction Design etc. that dom
 What are the differences between Dieter Rams designing in the 1970s and designing for digital platforms today? Can Rams’ commandments be the foundation for modern day design or are the new kids on the design block changing the fundamentals of design to cater to the new world? 
 (Akkawi 2018) Suggests the designers of today have changed significantly over time, they discuss transition from designing physical products, crafted logos and posters to the digital era now and how the reach of these products can stretch out significantly farther than the former, “This kind of design is made at a scale that's greater than what we can comprehend.  Sometimes, it ends up in the hands of billions of people.” (Akkawi 2018) 
 Williams (2018) suggests when discussing the contemporary design process that: 
-    >“The purpose of having design principles is to align people around what really matters.  We all have a shared sense of what’s           >important and true to us. Principles move us away from superficial things like what “feels right” and what “looks good” and gives       >purpose in the things we create.” 
-    >This would be in tune with Rams’ approach fifty years ago. 
+    >“The purpose of having design principles is to align people around what really matters. > We all have a shared sense of what’s           important and true to us.> Principles move us away from superficial things like what “feels right” and what “looks good” and gives       purpose in the things we create.” 
+    This would be in tune with Rams’ approach fifty years ago. 
  
 
 
