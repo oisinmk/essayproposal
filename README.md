@@ -90,11 +90,8 @@ I will be planning, designing and developing an APP that shows which foods, drin
 
 ### Conclusion
 
-This dissertation puts forward the idea that the ten design principles created by Dieter Rams nearly fifty years ago are still valid today. The research is broken down into three sections, ‘Where did all the time go?’ which covers the modern disciplines today, the designers in those respective fields and who are they designing for?  
-
-‘Revelations’ an investigation into each of Rams’ ten principles and how current opinion still values them today. 
-
-‘The New Testament’ a practical investigation, applying Rams’ ten principles to my own final year project.
+This dissertation puts forward the idea that the ten design principles created by Dieter Rams nearly fifty years ago are still valid today. The research is broken down into three sections:
+‘Where did all the time go?’ which covers the modern disciplines today, the designers in those respective fields and who are they designing for?  ‘Revelations’ an investigation into each of Rams’ ten principles and how current opinion still values them today and the last section, ‘The New Testament’ a practical investigation, applying Rams’ ten principles to my own final year project.
 
 
 Critical Bibliography
