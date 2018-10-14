@@ -105,28 +105,28 @@ Critical Bibliography
 
 + [Reference 1](###) The Interaction Design Foundation. (2018). Dieter Rams: 10 Timeless Commandments for Good Design. [online] Available at: https://www.interaction-design.org/literature/article/dieter-rams-10-timeless-commandments-for-good-design [Accessed 11 Oct. 2018]. (Domingo 2018)
 
-Domingo writes about Rams' principles as timeless commandments and how they still remain valuable in today's world not just for industrial designers but user experience designers as well.
+   Domingo writes about Rams' principles as timeless commandments and how they still remain valuable in today's world not just for        industrial designers but user experience designers as well.
 
 
 + [Reference 2](###) Williams, S. (2018). Defining brand design principles, a how to guide – Prototypr. [online] Prototypr. Available at: https://blog.prototypr.io/defining-brand-design-principles-a-how-to-guide-dc135be37957 [Accessed 11 Oct. 2018].
 
-Williams ran a workshop on Principles to help map out a set of guide lines for branding work. Instructing the students to come prepared with their own principles before educating them on the importance of Rams' 10.
+   Williams ran a workshop on Principles to help map out a set of guide lines for branding work. Instructing the students to come prepared with their own principles before educating them on the importance of Rams' 10.
 
 
 + [Reference 3](###) Zhou, J. (2015). A Matter of Principle – The Year of the Looking Glass – Medium. [online] Medium. Available at: https://medium.com/the-year-of-the-looking-glass/a-matter-of-principle-4f5e6ad076bb [Accessed 11 Oct. 2018].
 
 
-Zhou discusses how they use to be the biggest sceptic of the 10 rules, if they were too broad in a sence, but realized the importance of them if they were well thought out. wonderful quote by Zhou. "Good principles are solid. There is a weightiness, a certainty behind them. What looks right, what feels good — these are superficial things. A great designer defends her work based on principles that last, past one decision, past a thousand, that aren’t carried by whichever way the wind blows."
+   Zhou discusses how they use to be the biggest sceptic of the 10 rules, if they were too broad in a sence, but realized the importance of them if they were well thought out. wonderful quote by Zhou. "Good principles are solid. There is a weightiness, a certainty behind them. What looks right, what feels good — these are superficial things. A great designer defends her work based on principles that last, past one decision, past a thousand, that aren’t carried by whichever way the wind blows."
 
 
 
 + [Reference 4](###) Medium. (2018). Designing for Gen Z – MERó – Medium. [online] Available at: https://medium.com/@MERo/designing-for-gen-z-387b43ee80c0 [Accessed 12 Oct. 2018].
 
-Current article that explores designing for the most current generation, "generation z". The author discusses what aspects are important to consider when designing for this modern generation. Brand values are very relevant today - environment, responsibility etc. - Think rule on Honesty and "environmentally friendly".
+   Current article that explores designing for the most current generation, "generation z". The author discusses what aspects are important to consider when designing for this modern generation. Brand values are very relevant today - environment, responsibility etc. - Think rule on Honesty and "environmentally friendly".
 
 
 + [Reference 5](###) Ettleman, E. (2018). Why Creatives Should Never Forget Dieter Rams’ 10 Commandments. [online] Prototypr. Available at: https://blog.prototypr.io/why-creatives-should-never-forget-dieter-rams-10-commandments-f76deed30adf [Accessed 14 Oct. 2018].
 
-Ettleman believes that Rams' principles stand for a whole lot more , "they stand for something far more than just a framework for good design. Frankly, they are the basis for creating long-lasting solutions for problems that are experienced by people like you and I."
-Individually analyses each of the 10 principles and explains why they think they are still valid. 
+   Ettleman believes that Rams' principles stand for a whole lot more , "they stand for something far more than just a framework for good design. Frankly, they are the basis for creating long-lasting solutions for problems that are experienced by people like you and I."
+   Individually analyses each of the 10 principles and explains why they think they are still valid. 
 
