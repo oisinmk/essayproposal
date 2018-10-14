@@ -14,7 +14,7 @@ Essay Proposal and Critical Bibliography
 
 
 
-## An investigation into whether Dieter Rams' 10 Principles of good design are relevant today. 
+### An investigation into whether Dieter Rams' 10 Principles of good design are relevant today. 
 
 
 
@@ -34,9 +34,9 @@ This dissertation argues that these 10 Commandments are still relevant in today�
 ## Where did all the time go? 50 years on (We were young..) 
 
 #### Generation Z 
-The year is 2018, almost half a century since Dieter Rams gifted us believers with the coveted 10 commandments of design, oh how much has changed. 
-Technology has advanced faster and, in more ways than we could have imagined. The cultural and generational characteristics have evolved drastically over this time. Could the key principles created for a time once gone still be pertinent today? 
+The year is 2018, almost half a century since Dieter Rams gifted us believers with the coveted 10 commandments of design, oh how much has changed. Technology has advanced faster and, in more ways than we could have imagined. The cultural and generational characteristics have evolved drastically over this time. Could the key principles created for a time once gone still be pertinent today? 
  “Generation Z”, the rapidly growing populous becoming more and more influential, soon they will be the key demographic for designers. (Mero 2018)  
+
 Who are “Generation Z”? And why do they matter? I will investigate differences in characteristics between the new dominant generation and why designing for them could be different than their predecessors. (Wmfc.org. (2018).  
 "They’re being dubbed as more influential than Millennials and have an estimated spending power of £109 billion” (Mero, 2018) 
  
@@ -48,7 +48,7 @@ What are the differences between Dieter Rams designing in the 1970s and designin
 (Akkawi, 2018) Suggests the designers of today have changed significantly over time, they discuss transition from designing physical products, crafted logos and posters to the digital era now and how the reach of these products can stretch out significantly farther than the former, “This kind of design is made at a scale that's greater than what we can comprehend.  Sometimes, it ends up in the hands of billions of people.” (Akkawi 2018) 
 
 (Williams, 2018) suggests when discussing the contemporary design process that: 
-    >"The purpose of having design principles is to align people around what really matters. We all have a shared sense of what’s           >important and true to us. Principles move us away from superficial things like what “feels right” and what “looks good” and gives       >purpose in the things we create.” 
+    >"The purpose of having design principles is to align people around what really matters. We all have a shared sense of what’s           >important and true to us. Principles move us away from superficial things like what 'feels right' and what 'looks good' and gives       >purpose in the things we create.” 
    
   This would be in tune with Rams’ approach fifty years ago. 
  
