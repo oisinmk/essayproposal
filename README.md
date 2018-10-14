@@ -14,7 +14,7 @@ Essay Proposal and Critical Bibliography
 
 
 
-## Research Question:  An investigation into whether Dieter Rams' 10 Principles of good design are relevant today. 
+##An investigation into whether Dieter Rams' 10 Principles of good design are relevant today. 
 
 
 
@@ -29,7 +29,7 @@ This dissertation argues that these 10 Commandments are still relevant in today�
 
 
 
-## Section 1:  Where did all the time go? 50 years on (We were young..) 
+## Where did all the time go? 50 years on (We were young..) 
 
 #### Generation Z 
 The year is 2018, almost half a century since Dieter Rams gifted us believers with the coveted 10 commandments of design, oh how much has changed. 
@@ -50,7 +50,7 @@ This would be in tune with Rams’ approach fifty years ago.
 
 
 
-## Section 2:  Revelations 
+## Revelations 
 
 ####  1.Good design is innovative 
 ####  2.Good design makes a product useful 
@@ -70,7 +70,7 @@ Ettleman (2018) believes that Rams' 10 Disciplines stand for something more than
 Ettleman (2018) elaborates on each of the ten disciplines, e.g. he suggests innovation is not limited by but actually depends on the advancement of technology “in order to continue producing creative solutions that are truly innovative.  
 
 
-## Section 3:  The New Testament 
+## The New Testament 
 
 A practical investigation.  I will be applying the wisdom instilled to us by Rams’ ten principles of good design to the prototyping phase of my own Interaction design project.  
 The project is to develop a prototype using a range of mediums, the emphasis on testing and research, to produce a substantial piece of work for the major project module. 
