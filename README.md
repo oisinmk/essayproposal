@@ -9,90 +9,85 @@ Essay Proposal and Critical Bibliography
 
 
 
-## The 10 Commandments. 
+## Title: /* A New World */
 
 
 
 
-### An investigation into whether Dieter Rams' 10 Principles of good design are relevant today. 
+## Research Question: /* Generation Z and why they need to be taken seriously
+. */
 
 
 
 
 ## Introduction
 
-In the 1970s Dieter Rams, an industrial designer, created the ‘10 principles of good design’ as a response to his own question, "Is my design good design?” These ten principles became widely known and celebrated as the ‘10 commandments of design’. (https://designmuseum.org, 2018) 
+"Some brands may disregard Gen Z as too young or too insignificant, but as CEO of Dairy Queen, I’ve already seen the impact this youthful audience holds. This cohort of teenagers influences the market financially, culturally, technologically, and economically—and this influence will only continue to grow.” John Gainor, the president and CEO of Dairy Queen. 
 
-They are a set of guidelines Rams created to understand a forever-changing environment and to ensure that his contribution to the world of design was a good one, to provide others with a foundation from where to build upon. (Vitsoe.com, 2018) 
+Generation Z are those people born between the mid-1990s to approx. 2005. The oldest are just beginning to enter the workforce. 
 
-This dissertation argues that these 10 Commandments are still relevant in today’s arguably more chaotic world. That these guidelines can applicable to some of the newer design disciplines. That they are still relevant when designing for ‘Generation Z’ and that they can be successfully applied to the design of my own App project. 
-   >“-Both consumer products and technology have changed tremendously. Even aesthetics       have changed considerably and many of Rams’    >designs look old-fashioned for most of us, or trendy and “in” if you’re a fan of ’60s and ’70s designs. Despite all these changes      >around, the commandments remain valuable guidelines for anyone working in design and not only for industrial designers but also for    >you, user experience designer! “ (domingo ,2018) 
+This essay explores how Generation Z impacts the world markets economically, culturally and technologically, argues that their influence can only continue to rise and looks at how, as designers, we can engage with for this new generation.
+
+ 
  
 
 
 
-## Where did all the time go? 50 years on (We were young..) 
+## Section 1: /* Economic: Generation Z’s Spending Power and Influence
+ */
 
-#### Generation Z 
-The year is 2018, almost half a century since Dieter Rams gifted us believers with the coveted 10 commandments of design, oh how much has changed. Technology has advanced faster and, in more ways than we could have imagined. The cultural and generational characteristics have evolved drastically over this time. Could the key principles created for a time once gone still be pertinent today? 
- “Generation Z”, the rapidly growing populous becoming more and more influential, soon they will be the key demographic for designers. (Mero 2018)  
 
-Who are “Generation Z”? And why do they matter? I will investigate differences in characteristics between the new dominant generation and why designing for them could be different than their predecessors. (Wmfc.org. (2018).  
-"They’re being dubbed as more influential than Millennials and have an estimated spending power of £109 billion” (Mero, 2018) 
- 
-#### The New Disciples  
-‘The players have changed but the game stays the same’  
-Contemporary design disciplines e.g. UX Design, Interaction Design etc. that dominant the field today and the leaders of the specific fields.
-What are the differences between Dieter Rams designing in the 1970s and designing for digital platforms today? Can Rams’ commandments be the foundation for modern day design or are the new kids on the design block changing the fundamentals of design to cater to the new world? 
+Even though the eldest of Generation Z are only now entering the workforce, they have significant spending power. According to a 2018 study by Barkley, the estimated direct spending power of Generation Z is $150 billion, this data was based on allowances and earnings from people aged between seven and twenty-one in the USA. However, the Barkley study elaborates that this spending power inflates to over $600 billion when Generation Z’s influence was accounted for.
 
-(Akkawi, 2018) Suggests the designers of today have changed significantly over time, they discuss transition from designing physical products, crafted logos and posters to the digital era now and how the reach of these products can stretch out significantly farther than the former, “This kind of design is made at a scale that's greater than what we can comprehend.  Sometimes, it ends up in the hands of billions of people.” (Akkawi 2018) 
+Generation Z may not have as much spending power in comparison to their elder counterparts, but we need to take into account their spending influence. According to a 2015 study by Cassandra 93% of parents say their children impact family spending and buying for the household. According to the Journal of Consumer Marketing, when shopping with their children parents spend on average 30% more!
 
-(Williams, 2018) suggests when discussing the contemporary design process that: 
->"The purpose of having design principles is to align people around what really matters. We all have a shared sense of what’s           important and true to us. Principles move us away from superficial things like what 'feels right' and what 'looks good' and gives purpose in the things we create.” 
-   
-  This would be in tune with Rams’ approach fifty years ago. 
- 
+However, one thing to consider is that Generation Z are being sensible when it comes to money, according to a study by Business Insider, 64% of Generation Z have personal savings, which is 13% higher when compared to older savers. 
+
+Designers need to be aware of what Generation Z take into consideration when they spend money.  For example, Joe Cardador, Barkley, suggests that, “Gender and racial equality are important to Gen Z, especially Gen Z females. Our research on the Youth Mindsets suggests that Gen Z females are looking for brands to be innovative and part of their social network, both online and off. This corresponds to their goals of projecting success through bringing new ideas and products to their networks.”
 
 
 
-## Revelations 
+## Section 2: /* Culture and Society: The Next Big Disrupters.
 
-####  1.Good design is innovative 
-####  2.Good design makes a product useful 
-####  3.Good design makes a product understandable 
-####  4.Good design is aesthetic 
-####  5.Good design is unobtrusive 
-####  6.Good design is honest 
-####  7.Good design is long-lasting 
-####  8.Good design is thorough down to the last detail 
-####  9.Good design is environmentally-friendly 
-#### 10.Good design is as little design as possible 
- 
-The breaking down of the ten commandments. Opinions and thoughts from the leaders of the design world.  
-Domingo (2018) suggests that Rams’ principles are “Timeless commandments” and explains how they are valuable today not just for product designers as Rams would have been, but all manner of designers. >“It’s amazing to see how valid these principles are today, so much that we might feel them even more than back then, when Rams actually wrote them” (Domingo 2018).  
+ */
 
-Croft (2018) shares a similar opinion suggesting that although Rams’ 10 disciplines were originally created in the seventies as a framework for his experience in product design, they can be applied as a foundation for any discipline.  
+- “I was raised in a household where I was taught to ask myself “how am I going to make a difference?”  not “if I am going to make a difference.” I am a product of my environment, committed to change- making.” Ziad Ahmed. 
 
-Ettleman (2018) believes that Rams' 10 Disciplines stand for something more than just guidelines today and that they stand for the foundation of the creation of life-long resolutions that are experienced by everyone. 
+What cultural and societal power do Generation Z wield?
 
-Ettleman (2018) elaborates on each of the ten disciplines, e.g. he suggests innovation is not limited by but actually depends on the advancement of technology “in order to continue producing creative solutions that are truly innovative.  
+Generation Z have been moulded by the events that they grew up with. J. Walter Thompson of the Innovation group explains that Generation Z grew up during America’s “War on Terror” and the financial recessions of 2000 and 2008, Thompson suggests that this has a significant impact on how they see and act in the world and how they plan on changing it.
+
+The “March for Our Lives” protest (March 18) took place in Washington’s Capitol Hill and throughout the rest of the USA. It was a student organized response to the Stoneman Douglas High School shootings that took place in February earlier that year. According to Business Insider it turned out to be one of the largest protests in American history, with an estimated between one and two million protesters across the USA. The protest has evolved into a movement to inspire, and currently, they are campaigning to encourage young people to vote in the USA according to the “March for Our Lives” website. 
+
+In the UK, the “Vote at 16” movement is campaigning for the UK government to lower the minimum legal voting age to 16, to give the younger generation a voice in society. The Scottish government made the change in 2015 and according to research conducted by SPICe, saw a 75 percent turnout from people aged 16 and 17.
+
+According to the research agency Wildness, Generation Z doesn’t want to be spoken for, but that they want to proactively engage in the production of meaning around them, including design elements that they’re going to buy into
+
+Caroline Jacoby describes Generation Z as “The most culturally diverse population to date” and that they demand “openness and inclusivity… corporate values are no longer a nicety, but a necessity.” 
+
+Generation Z want to see design that feels authentic and takes into consideration the whole community, and the individual. They are very aware of power of the social and cultural engagement for good.
+
+“It’s less a political stance than a practical reality, because Gen Zers are anything but monolithic in their beliefs”-Jacoby
 
 
-## The New Testament 
 
-A practical investigation. I will be applying the wisdom instilled to us by Rams’ ten principles of good design to the prototyping phase of my own Interaction design project.  
+## Section 3: /* Technology: “Digital Natives”
 
-The project is to develop a prototype using a range of mediums, the emphasis on testing and research, to produce a substantial piece of work for the major project module. 
+ */
 
-I will be planning, designing and developing an APP that shows which foods, drinks, tastes and flavours work together. I will have to think about a range of design disciplines when developing the APP, e.g. User experience design, Interaction Design, UI Design so it will be interesting to see how Rams’ principles fare with the more modern aspects of this project. 
- 
+Caroline Steiger labels Generation Z as “Digital Natives.” Steiger explains how Generation Z are the first generation to be born during or after the advancement of digital technology. Steiger elaborates that this has given Generation Z an innate grasp of technology and a “greater level of comfort” when using it.
+
+ “They are the most connected, educated and sophisticated generation in history. They don’t just represent the future, they are creating it.” Mark McCrindle. 
+
+There is no doubt that they spend a lot on time using screens, they “invented the ability to hold a conversation and simultaneously scroll through their phones.” Iqbal, Guardian. What does Generation Z want when it comes to technology? A 2017 Report by American Express, states that 23% of Generation Z will leave a brand over badly-designed mobile features, they elaborate how Generation Z value efficiency and convenience and continues to suggest that designers should focus on functionality as well as design. 
+
 
 
 ### Conclusion
 
-This dissertation puts forward the idea that the ten design principles created by Dieter Rams nearly fifty years ago are still valid today. The research is broken down into three sections:
-‘Where did all the time go?’ which covers the modern disciplines today, the designers in those respective fields and who are they designing for?  ‘Revelations’ an investigation into each of Rams’ ten principles and how current opinion still values them today and the last section, ‘The New Testament’ a practical investigation, applying Rams’ ten principles to my own final year project.
-
+Generation Z may be the youngest generation, but they cannot be ignored. 
+They have already amassed a significant spending power and a substantial influence on the spending of other generations. They will take up 40 percent of the global population by 2020. They speak up, fight for what they want, and they are not afraid to protest. They are “Digital Natives”, never far from a screen. They “Drink less, take far fewer drugs, and have made teenage pregnancy a near anomaly...Prefer juice-bars to pub crawls, rank quality family time ahead of sex and prioritize good grades before friendship.” Iqbal, Guardian. Iqbal also suggests that they are “know for being globally connected and politically anxious” and that they are “Big on experimenting with gender and sexual spectrums.”
+These are the young people we need to think about when designing. Design for diversity, design collaboration, design for good, design for multiple devices.
 
 Critical Bibliography
 ---------------------
@@ -100,30 +95,93 @@ Critical Bibliography
 
 
 
-+ *[Reference 1](###) The Interaction Design Foundation. (2018). Dieter Rams: 10 Timeless Commandments for Good Design. [online] Available at: https://www.interaction-design.org/literature/article/dieter-rams-10-timeless-commandments-for-good-design [Accessed 11 Oct. 2018]. (Domingo 2018)*
++ [Reference 1](###) Fromm, J. and Read, A. (2018). Marketing to Gen Z. pp.11-12.
 
-   Domingo writes about Rams' principles as timeless commandments and how they still remain valuable in today's world not just for        industrial designers but user experience designers as well.
-
-
-+ *[Reference 2](###) Williams, S. (2018). Defining brand design principles, a how to guide – Prototypr. [online] Prototypr. Available at: https://blog.prototypr.io/defining-brand-design-principles-a-how-to-guide-dc135be37957 [Accessed 11 Oct. 2018].*
-
-   Williams ran a workshop on Principles to help map out a set of guide lines for branding work. Instructing the students to come prepared with their own principles before educating them on the importance of Rams' 10.
-
-
-+ *[Reference 3](###) Zhou, J. (2015). A Matter of Principle – The Year of the Looking Glass – Medium. [online] Medium. Available at: https://medium.com/the-year-of-the-looking-glass/a-matter-of-principle-4f5e6ad076bb [Accessed 11 Oct. 2018].*
-
-
-   Zhou discusses how they use to be the biggest sceptic of the 10 rules, if they were too broad in a sence, but realized the importance of them if they were well thought out. wonderful quote by Zhou. "Good principles are solid. There is a weightiness, a certainty behind them. What looks right, what feels good — these are superficial things. A great designer defends her work based on principles that last, past one decision, past a thousand, that aren’t carried by whichever way the wind blows."
+- An E-book on how to market for Generation Z, lots of useful research and quotes on their characteristics, spending habits and influences, used quote from John Gainor.
 
 
 
-+ *[Reference 4](###) Medium. (2018). Designing for Gen Z – MERó – Medium. [online] Available at: https://medium.com/@MERo/designing-for-gen-z-387b43ee80c0 [Accessed 12 Oct. 2018].*
++ [Reference 2](###) Cardador, J., Fromm, J. and Read, A. (2018). [online] Millennialmarketing.com. Available at: http://www.millennialmarketing.com/wp-content/uploads/2018/01/Barkley_WP_GenZMarketSpend_Final.pdf [Accessed 21 Oct. 2018].
 
-   Current article that explores designing for the most current generation, "generation z". The author discusses what aspects are important to consider when designing for this modern generation. Brand values are very relevant today - environment, responsibility etc. - Think rule on Honesty and "environmentally friendly".
+-A study by Barkley research group, has a break down on Generation Z spending and influence. Their direct spending and indirect spending.
 
 
-+ *[Reference 5](###) Ettleman, E. (2018). Why Creatives Should Never Forget Dieter Rams’ 10 Commandments. [online] Prototypr. Available at: https://blog.prototypr.io/why-creatives-should-never-forget-dieter-rams-10-commandments-f76deed30adf [Accessed 14 Oct. 2018].*
 
-   Ettleman believes that Rams' principles stand for a whole lot more , "they stand for something far more than just a framework for good design. Frankly, they are the basis for creating long-lasting solutions for problems that are experienced by people like you and I."
-   Individually analyses each of the 10 principles and explains why they think they are still valid. 
++ [Reference 3](###) Marketwire. (2015). Deep Focus' Cassandra Report: Gen Z Uncovers Massive Attitude Shifts Toward Money, Work and Communication Preferences. [online] Available at: http://www.marketwired.com/press-release/deep-focus-cassandra-report-gen-z-uncovers-massive-attitude-shifts-toward-money-work-2004889.htm [Accessed 21 Oct. 2018].
+
+
+
+-Information on a reserach report by CASSANDRA, explains how 93% of parents admit to being influenced by their children when spending.
+
+
+
+
++ [Reference 4](###) Fromm, J. and Read, A. (2018). Marketing to Gen Z. pp.94-97.
+-Information on "Pester power" and the 30% increase of spend when parents are shopping with their children- emphasizes influence point.
+
+
++ [Reference 5] (###) Rigusa, G. (2017). Research shows how Generation Z thinks differently from millennials when it comes to money. [online] Business Insider. Available at: http://uk.businessinsider.com/differences-between-generation-z-and-millennials-money-2017-6?r=US&IR=T [Accessed 21 Oct. 2018].
+
+-Business Inside article, claiming that 64 % of Generation Z have saving accounts, 15% increase compared to their older generations.
+
+
+
++ [Reference 6] (###) Fromm, J. and Cardador, J. (2018). How Much Financial Influence Does Gen Z Have?. [online] Forbes. Available at: https://www.forbes.com/sites/jefffromm/2018/01/10/what-you-need-to-know-about-the-financial-impact-of-gen-z-influence/#2787277a56fc [Accessed 21 Oct. 2018].
+
+-Discussion of reserach between Fromm and Cardador- cardador explains female generation Z'ers wnats with brands. 
+
+
++ [Reference 7] (###) Williams, A. (2015). Move Over, Millennials, Here Comes Generation Z. [online] Nytimes.com. Available at: https://www.nytimes.com/2015/09/20/fashion/move-over-millennials-here-comes-generation-z.html [Accessed 22 Oct. 2018].
+
+-Quotes, J Walter Thompson who explains how generation Z were brought up during the war on terror and two great recessions. shaping how they've grown up and how it will change their outlook on life
+
++ [Reference 8] (###) Mosher, D. and Gould, S. (2018). The odds that a gun will kill the average American may surprise you. [online] Business Insider. Available at: https://www.businessinsider.com/us-gun-death-murder-risk-statistics-2018-3?IR=T [Accessed 22 Oct. 2018].
+
+-Quotes estimated amounts of visitors to the protest on gun control.
+
+
++ [Reference 9] (###) Votesat16.org. (2018). About the votes at 16 campaign – Votes at 16. [online] Available at: http://www.votesat16.org/about/ [Accessed 22 Oct. 2018].
+
+-Information on the Vote at 16 movement in the UK.
+
+
++ [Reference 10] (###) Aiton, A., Burnside, R., Campbell, A., Edwards, T., Liddell, G., McIver, I. and McQuillen, A. (2016). [online] Parliament.scot. Available at: http://www.parliament.scot/ResearchBriefingsAndFactsheets/S5/SB_16-34_Election_2016.pdf [Accessed 22 Oct. 2018].
+
+-Statistics on the Scottish parliamentary election in 2016
+
+
++ [Reference 11] (###) Adrenaline. (2018). GEN Z: CULTURE BUILDERS - Adrenaline. [online] Available at: http://www.adrenalineagency.com/blog/gen-z-culture-builders/ [Accessed 22 Oct. 2018].
+
+-Talks about research done by Wildness, on how Generation Z typically do not want to be spoken for and want to co collaborate.
+
++ [Reference 12] (###) Jacoby, C. (2018). GEN Z: CULTURE BUILDERS - Adrenaline. [online] Adrenaline. Available at: http://www.adrenalineagency.com/blog/gen-z-culture-builders/ [Accessed 22 Oct. 2018].
+
+-Jacoby explains how Generation Z are the most cultural diverse generation to date, and explains some of their brand values and how they differ from their predecessors.
+Jacoby elaborates the more liberal values that Generation Z tend to have.
+
+
++ [Reference 13] (###) Steiger, C. (2018). Generation Z - the Digital Natives - TIG. [online] TIG. Available at: https://www.tig.co.uk/blogs/generation-z-the-digital-natives/ [Accessed 22 Oct. 2018].
+
+-Steiger explains how Generation Z are the first Digital Natives of any generation. Adds some characteristics that are common for Generation Z. 
+Also a nice quote from Mark McCrindle explaining how they are the most connected generation.
+
+
++ [Reference 14] (###) Iqbal, N. (2018). Generation Z: ‘We have more to do than drink and take drugs’. [online] the Guardian. Available at: https://www.theguardian.com/society/2018/jul/21/generation-z-has-different-attitudes-says-a-new-report [Accessed 22 Oct. 2018].
+
+-used a nice quote from Iqbal, "ability to hold a conversation and scroll through phone at the same time"
+Interesting article explaining just how different Generation Z are to their Millenial siblings.
+"prefer juice bars to pub crawls".
+
+
++ [Reference 15] (###) Oster, E. and Oster, E. (2018). New Study Reveals How the Expectations of Gen Z 'Are Reshaping Brand Experiences'. [online] Adweek.com. Available at: https://www.adweek.com/brand-marketing/new-study-reveals-how-the-expectations-of-gen-z-are-reshaping-brand-experiences/ [Accessed 22 Oct. 2018].
+
+-Oster points to a study by American Express, which states that 23% of Generation Z will quit a brand due to poor designed mobile features.- highlighting their preference for efficiency and maybe lack of patience?
+
++ [Reference 16] (###) Fromm, J. and Read, A. (2018). Marketing to Gen Z. pp.22-24.
+
+- Quote on being a generation Z'er,  by Ziad Ahmed an 18 year old president and CEO
+
++ [Reference 17] (###) March For Our Lives. (2018). March For Our Lives. [online] Available at: https://marchforourlives.com/ [Accessed 22 Oct. 2018].
+
+- Got information on what March for our lives were doing, currently encouraging to vote.
 
