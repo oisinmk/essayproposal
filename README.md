@@ -22,7 +22,7 @@ Essay Proposal and Critical Bibliography
 
 ## Introduction
 
-"Some brands may disregard Gen Z as too young or too insignificant, but as CEO of Dairy Queen, I’ve already seen the impact this youthful audience holds. This cohort of teenagers influences the market financially, culturally, technologically, and economically—and this influence will only continue to grow.” John Gainor, the president and CEO of Dairy Queen. 
+>"Some brands may disregard Gen Z as too young or too insignificant, but as CEO of Dairy Queen, I’ve already seen the impact this youthful audience holds. This cohort of teenagers influences the market financially, culturally, technologically, and economically—and this influence will only continue to grow.” John Gainor, the president and CEO of Dairy Queen. 
 
 Generation Z are those people born between the mid-1990s to approx. 2005. The oldest are just beginning to enter the workforce. 
 
@@ -51,7 +51,7 @@ Designers need to be aware of what Generation Z take into consideration when the
 
 
 
-- “I was raised in a household where I was taught to ask myself “how am I going to make a difference?”  not “if I am going to make a difference.” I am a product of my environment, committed to change- making.” Ziad Ahmed. 
+>“I was raised in a household where I was taught to ask myself “how am I going to make a difference?”  not “if I am going to make a difference.” I am a product of my environment, committed to change- making.” Ziad Ahmed. 
 
 What cultural and societal power do Generation Z wield?
 
@@ -67,7 +67,7 @@ Caroline Jacoby describes Generation Z as “The most culturally diverse populat
 
 Generation Z want to see design that feels authentic and takes into consideration the whole community, and the individual. They are very aware of power of the social and cultural engagement for good.
 
-“It’s less a political stance than a practical reality, because Gen Zers are anything but monolithic in their beliefs”-Jacoby
+>“It’s less a political stance than a practical reality, because Gen Zers are anything but monolithic in their beliefs”-Jacoby
 
 
 
@@ -77,7 +77,7 @@ Generation Z want to see design that feels authentic and takes into consideratio
 
 Caroline Steiger labels Generation Z as “Digital Natives.” Steiger explains how Generation Z are the first generation to be born during or after the advancement of digital technology. Steiger elaborates that this has given Generation Z an innate grasp of technology and a “greater level of comfort” when using it.
 
- “They are the most connected, educated and sophisticated generation in history. They don’t just represent the future, they are creating it.” Mark McCrindle. 
+ >“They are the most connected, educated and sophisticated generation in history. They don’t just represent the future, they are creating it.” Mark McCrindle. 
 
 There is no doubt that they spend a lot on time using screens, they “invented the ability to hold a conversation and simultaneously scroll through their phones.” Iqbal, Guardian. What does Generation Z want when it comes to technology? A 2017 Report by American Express, states that 23% of Generation Z will leave a brand over badly-designed mobile features, they elaborate how Generation Z value efficiency and convenience and continues to suggest that designers should focus on functionality as well as design. 
 
@@ -95,19 +95,19 @@ Critical Bibliography
 
 
 
-+ [Reference 1](###) Fromm, J. and Read, A. (2018). Marketing to Gen Z. pp.11-12.
++ [Reference 1]Fromm, J. and Read, A. (2018). Marketing to Gen Z. pp.11-12.
 
 - An E-book on how to market for Generation Z, lots of useful research and quotes on their characteristics, spending habits and influences, used quote from John Gainor.
 
 
 
-+ [Reference 2](###) Cardador, J., Fromm, J. and Read, A. (2018). [online] Millennialmarketing.com. Available at: http://www.millennialmarketing.com/wp-content/uploads/2018/01/Barkley_WP_GenZMarketSpend_Final.pdf [Accessed 21 Oct. 2018].
++ [Reference 2]Cardador, J., Fromm, J. and Read, A. (2018). [online] Millennialmarketing.com. Available at: http://www.millennialmarketing.com/wp-content/uploads/2018/01/Barkley_WP_GenZMarketSpend_Final.pdf [Accessed 21 Oct. 2018].
 
 -A study by Barkley research group, has a break down on Generation Z spending and influence. Their direct spending and indirect spending.
 
 
 
-+ [Reference 3](###) Marketwire. (2015). Deep Focus' Cassandra Report: Gen Z Uncovers Massive Attitude Shifts Toward Money, Work and Communication Preferences. [online] Available at: http://www.marketwired.com/press-release/deep-focus-cassandra-report-gen-z-uncovers-massive-attitude-shifts-toward-money-work-2004889.htm [Accessed 21 Oct. 2018].
++ [Reference 3] Marketwire. (2015). Deep Focus' Cassandra Report: Gen Z Uncovers Massive Attitude Shifts Toward Money, Work and Communication Preferences. [online] Available at: http://www.marketwired.com/press-release/deep-focus-cassandra-report-gen-z-uncovers-massive-attitude-shifts-toward-money-work-2004889.htm [Accessed 21 Oct. 2018].
 
 
 
@@ -116,72 +116,72 @@ Critical Bibliography
 
 
 
-+ [Reference 4](###) Fromm, J. and Read, A. (2018). Marketing to Gen Z. pp.94-97.
++ [Reference 4] Fromm, J. and Read, A. (2018). Marketing to Gen Z. pp.94-97.
 Information on "Pester power" and the 30% increase of spend when parents are shopping with their children- emphasizes influence point.
 
 
-+ [Reference 5] (###) Rigusa, G. (2017). Research shows how Generation Z thinks differently from millennials when it comes to money. [online] Business Insider. Available at: http://uk.businessinsider.com/differences-between-generation-z-and-millennials-money-2017-6?r=US&IR=T [Accessed 21 Oct. 2018].
++ [Reference 5]  Rigusa, G. (2017). Research shows how Generation Z thinks differently from millennials when it comes to money. [online] Business Insider. Available at: http://uk.businessinsider.com/differences-between-generation-z-and-millennials-money-2017-6?r=US&IR=T [Accessed 21 Oct. 2018].
 
 Business Inside article, claiming that 64 % of Generation Z have saving accounts, 15% increase compared to their older generations.
 
 
 
-+ [Reference 6] (###) Fromm, J. and Cardador, J. (2018). How Much Financial Influence Does Gen Z Have?. [online] Forbes. Available at: https://www.forbes.com/sites/jefffromm/2018/01/10/what-you-need-to-know-about-the-financial-impact-of-gen-z-influence/#2787277a56fc [Accessed 21 Oct. 2018].
++ [Reference 6]  Fromm, J. and Cardador, J. (2018). How Much Financial Influence Does Gen Z Have?. [online] Forbes. Available at: https://www.forbes.com/sites/jefffromm/2018/01/10/what-you-need-to-know-about-the-financial-impact-of-gen-z-influence/#2787277a56fc [Accessed 21 Oct. 2018].
 
 Discussion of reserach between Fromm and Cardador- cardador explains female generation Z'ers wnats with brands. 
 
 
-+ [Reference 7] (###) Williams, A. (2015). Move Over, Millennials, Here Comes Generation Z. [online] Nytimes.com. Available at: https://www.nytimes.com/2015/09/20/fashion/move-over-millennials-here-comes-generation-z.html [Accessed 22 Oct. 2018].
++ [Reference 7]  Williams, A. (2015). Move Over, Millennials, Here Comes Generation Z. [online] Nytimes.com. Available at: https://www.nytimes.com/2015/09/20/fashion/move-over-millennials-here-comes-generation-z.html [Accessed 22 Oct. 2018].
 
 Quotes, J Walter Thompson who explains how generation Z were brought up during the war on terror and two great recessions. shaping how they've grown up and how it will change their outlook on life
 
-+ [Reference 8] (###) Mosher, D. and Gould, S. (2018). The odds that a gun will kill the average American may surprise you. [online] Business Insider. Available at: https://www.businessinsider.com/us-gun-death-murder-risk-statistics-2018-3?IR=T [Accessed 22 Oct. 2018].
++ [Reference 8]  Mosher, D. and Gould, S. (2018). The odds that a gun will kill the average American may surprise you. [online] Business Insider. Available at: https://www.businessinsider.com/us-gun-death-murder-risk-statistics-2018-3?IR=T [Accessed 22 Oct. 2018].
 
 Quotes estimated amounts of visitors to the protest on gun control.
 
 
-+ [Reference 9] (###) Votesat16.org. (2018). About the votes at 16 campaign – Votes at 16. [online] Available at: http://www.votesat16.org/about/ [Accessed 22 Oct. 2018].
++ [Reference 9]  Votesat16.org. (2018). About the votes at 16 campaign – Votes at 16. [online] Available at: http://www.votesat16.org/about/ [Accessed 22 Oct. 2018].
 
 Information on the Vote at 16 movement in the UK.
 
 
-+ [Reference 10] (###) Aiton, A., Burnside, R., Campbell, A., Edwards, T., Liddell, G., McIver, I. and McQuillen, A. (2016). [online] Parliament.scot. Available at: http://www.parliament.scot/ResearchBriefingsAndFactsheets/S5/SB_16-34_Election_2016.pdf [Accessed 22 Oct. 2018].
++ [Reference 10]  Aiton, A., Burnside, R., Campbell, A., Edwards, T., Liddell, G., McIver, I. and McQuillen, A. (2016). [online] Parliament.scot. Available at: http://www.parliament.scot/ResearchBriefingsAndFactsheets/S5/SB_16-34_Election_2016.pdf [Accessed 22 Oct. 2018].
 
 Statistics on the Scottish parliamentary election in 2016
 
 
-+ [Reference 11] (###) Adrenaline. (2018). GEN Z: CULTURE BUILDERS - Adrenaline. [online] Available at: http://www.adrenalineagency.com/blog/gen-z-culture-builders/ [Accessed 22 Oct. 2018].
++ [Reference 11]  Adrenaline. (2018). GEN Z: CULTURE BUILDERS - Adrenaline. [online] Available at: http://www.adrenalineagency.com/blog/gen-z-culture-builders/ [Accessed 22 Oct. 2018].
 
 Talks about research done by Wildness, on how Generation Z typically do not want to be spoken for and want to co collaborate.
 
-+ [Reference 12] (###) Jacoby, C. (2018). GEN Z: CULTURE BUILDERS - Adrenaline. [online] Adrenaline. Available at: http://www.adrenalineagency.com/blog/gen-z-culture-builders/ [Accessed 22 Oct. 2018].
++ [Reference 12]  Jacoby, C. (2018). GEN Z: CULTURE BUILDERS - Adrenaline. [online] Adrenaline. Available at: http://www.adrenalineagency.com/blog/gen-z-culture-builders/ [Accessed 22 Oct. 2018].
 
 Jacoby explains how Generation Z are the most cultural diverse generation to date, and explains some of their brand values and how they differ from their predecessors.
 Jacoby elaborates the more liberal values that Generation Z tend to have.
 
 
-+ [Reference 13] (###) Steiger, C. (2018). Generation Z - the Digital Natives - TIG. [online] TIG. Available at: https://www.tig.co.uk/blogs/generation-z-the-digital-natives/ [Accessed 22 Oct. 2018].
++ [Reference 13]  Steiger, C. (2018). Generation Z - the Digital Natives - TIG. [online] TIG. Available at: https://www.tig.co.uk/blogs/generation-z-the-digital-natives/ [Accessed 22 Oct. 2018].
 
 Steiger explains how Generation Z are the first Digital Natives of any generation. Adds some characteristics that are common for Generation Z. 
 Also a nice quote from Mark McCrindle explaining how they are the most connected generation.
 
 
-+ [Reference 14] (###) Iqbal, N. (2018). Generation Z: ‘We have more to do than drink and take drugs’. [online] the Guardian. Available at: https://www.theguardian.com/society/2018/jul/21/generation-z-has-different-attitudes-says-a-new-report [Accessed 22 Oct. 2018].
++ [Reference 14]  Iqbal, N. (2018). Generation Z: ‘We have more to do than drink and take drugs’. [online] the Guardian. Available at: https://www.theguardian.com/society/2018/jul/21/generation-z-has-different-attitudes-says-a-new-report [Accessed 22 Oct. 2018].
 
 used a nice quote from Iqbal, "ability to hold a conversation and scroll through phone at the same time"
 Interesting article explaining just how different Generation Z are to their Millenial siblings.
 "prefer juice bars to pub crawls".
 
 
-+ [Reference 15] (###) Oster, E. and Oster, E. (2018). New Study Reveals How the Expectations of Gen Z 'Are Reshaping Brand Experiences'. [online] Adweek.com. Available at: https://www.adweek.com/brand-marketing/new-study-reveals-how-the-expectations-of-gen-z-are-reshaping-brand-experiences/ [Accessed 22 Oct. 2018].
++ [Reference 15]  Oster, E. and Oster, E. (2018). New Study Reveals How the Expectations of Gen Z 'Are Reshaping Brand Experiences'. [online] Adweek.com. Available at: https://www.adweek.com/brand-marketing/new-study-reveals-how-the-expectations-of-gen-z-are-reshaping-brand-experiences/ [Accessed 22 Oct. 2018].
 
 Oster points to a study by American Express, which states that 23% of Generation Z will quit a brand due to poor designed mobile features.- highlighting their preference for efficiency and maybe lack of patience?
 
-+ [Reference 16] (###) Fromm, J. and Read, A. (2018). Marketing to Gen Z. pp.22-24.
++ [Reference 16]  Fromm, J. and Read, A. (2018). Marketing to Gen Z. pp.22-24.
 
 Quote on being a generation Z'er,  by Ziad Ahmed an 18 year old president and CEO
 
-+ [Reference 17] (###) March For Our Lives. (2018). March For Our Lives. [online] Available at: https://marchforourlives.com/ [Accessed 22 Oct. 2018].
++ [Reference 17]  March For Our Lives. (2018). March For Our Lives. [online] Available at: https://marchforourlives.com/ [Accessed 22 Oct. 2018].
 
 Got information on what March for our lives were doing, currently encouraging to vote.
 
